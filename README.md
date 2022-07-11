@@ -1,2 +1,5 @@
 # JAVA
-Individual_project
+
+## Indivital Project
+
+### Hostel Management
